@@ -9,8 +9,12 @@ section{
     width: 100vw;
     height: 100vh;
     margin: auto;
-    background: cornflowerblue ;
+    background: url(../img/pexels-alex-andrews-816608.jpg) ;
     overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
 }
 
 .square{
